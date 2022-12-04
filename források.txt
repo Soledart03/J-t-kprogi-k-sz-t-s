@@ -1,5 +1,0 @@
-https://books.google.hu/books?hl=hu&lr=&id=4GqQDwAAQBAJ&oi=fnd&pg=PA75&dq=Unreal+Engine+5&ots=cyRvg3fPrx&sig=E9Zmn_0hXm6e8phr3-gCnszZZsM&redir_esc=y#v=onepage&q=Unreal%20Engine%205&f=false
-
-https://books.google.hu/books?hl=hu&lr=&id=WfAWzVW9IK0C&oi=fnd&pg=PT16&dq=Game+Development&ots=AV8VADHEyj&sig=9atUlQEdmRDTduSqE-fucfu_Z88&redir_esc=y#v=onepage&q=Game%20Development&f=false
-
-https://books.google.hu/books?hl=hu&lr=&id=RFpLDAAAQBAJ&oi=fnd&pg=PP1&dq=Unreal+Engine+&ots=ae5VL8vmur&sig=Urlc3ZdPvj-L81yOHVJzW4orS8I&redir_esc=y#v=onepage&q=Unreal%20Engine&f=false
