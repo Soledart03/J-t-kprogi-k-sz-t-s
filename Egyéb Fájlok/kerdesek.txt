@@ -1,5 +1,10 @@
 1. Milyen játékokkal szoktál játszani?
+Általában Shooter és RPG játékokkal játszok, emellett néha MOBA játékokat is előveszek.
 2. Készítettél már saját játékot,vagy elgondolkodtál már azon, hogy készíts egy játékot?
+Még nem készítettem sosem, de mivel nekem is ez a projektem ezért készítek.
 3. Mit lehet tudni a játékodról? Milyen Környezetben készült?
+A játékunk egy 2D Rouge-like platformer játék amelyet az Unreal Engine-el készítünk el.
 4. Mennyi időt vett igénybe?
+Még nem készült el, de eddig 3 órányi munkánál járunk.
 5. Milyen okból készítetted/ készíted a játékod?
+Ahogy fentebb már említettem a projekt miatt, emellett érdekel a játékkészítés folyamata
