@@ -87,8 +87,8 @@ K = int(input("Adj meg egy egész számot:"))
 hatvany = A**K
 print(hatvany)
 """
-"""
 #26.
+"""
 lista1 = [5,8,6,7,2]
 copylist = lista1.copy()
 print(copylist)
@@ -103,4 +103,14 @@ print("A csökkenő számok elemi:")
 for x in lista:
     print(x)
 """
-#13.
+#10.
+"""
+szamok = int(input("Add meg a 20-nál nem nagyobb számot!"))
+print(szamok*"*" + "START")
+"""
+#21.
+"""
+parameter = input("Add meg a szót:")
+print(len(parameter)*"*")
+"""
+
